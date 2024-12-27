@@ -159,8 +159,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or support, please contact:
 
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Email**: varunb575@gmail.com
+- **GitHub**: [@yourusername](https://github.com/ibesuperv)
 
 ---
 

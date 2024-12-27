@@ -1,7 +1,5 @@
 # Vector and Probability Calculator
 
-![Program Logo](path_to_your_logo_image) <!-- Replace with your logo if available -->
-
 Welcome to the **Vector and Probability Calculator**, your comprehensive companion for performing vector operations and probability calculations directly from the command line. Whether you're a student, educator, or professional, this tool offers a user-friendly interface to handle various mathematical computations efficiently.
 
 ## Table of Contents

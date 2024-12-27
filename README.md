@@ -14,7 +14,6 @@ Welcome to the **Vector and Probability Calculator**, your comprehensive compani
   - [4. Probability: Combinations & Permutations](#4-probability-combinations--permutations)
   - [5. Hypergeometric Distribution](#5-hypergeometric-distribution)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -151,9 +150,6 @@ Contributions are welcome! Please follow these steps:
 
 5. **Open a Pull Request**
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
